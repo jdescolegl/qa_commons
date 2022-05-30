@@ -1,5 +1,4 @@
-boto3==1.14.4
-polling2==0.4.5
-requests==2.24.0
-pytest-html==2.1.1
-pydantic==1.8.2
+flaky
+selenium
+pytest
+webdriver_manager
